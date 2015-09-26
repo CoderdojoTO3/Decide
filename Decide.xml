@@ -68,7 +68,4 @@
       </block>
     </statement>
   </block>
-  <block type="logic_compare" id="83" inline="true" x="-189" y="253">
-    <field name="OP">EQ</field>
-  </block>
 </xml>
