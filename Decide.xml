@@ -50,7 +50,7 @@
             </next>
           </block>
         </statement>
-        <next>
+        <statement name="ELSE">
           <block type="movement_forward" id="298">
             <next>
               <block type="robot_delay" id="306" inline="true">
@@ -65,7 +65,7 @@
               </block>
             </next>
           </block>
-        </next>
+        </statement>
       </block>
     </statement>
   </block>
